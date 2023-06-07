@@ -1,0 +1,9 @@
+body{
+    position: absolute;
+    width: 1280px;
+    height: 500px;
+    left: 0px;
+    top: 150px;
+
+    background: rgba(136, 121, 81, 0.69);
+}
